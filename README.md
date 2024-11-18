@@ -12,6 +12,7 @@ This program helps you find profitable Hypixel auctions by tracking and analyzin
 - Automatically copies the auction command to your clipboard.
 - Calculates average and lowest bin prices.
 - Displays auction information such as item tags, starting bids, item tiers, and more.
+- Auto copy into clipboard (/viewauction 2763fc86586c4b4995991bad90ea2968)
 
 ## Libraries Used
 The following libraries were used in the development of this project:
