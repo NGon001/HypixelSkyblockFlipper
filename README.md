@@ -1,7 +1,7 @@
 # HypixelAUFlipper
 ## Example Output
 
-![Screenshot_19](https://github.com/user-attachments/assets/bf31b9cc-8e98-4455-a434-44c9db7803dc)
+![Screenshot_24](https://github.com/user-attachments/assets/753d4ac3-1924-4033-b377-7848b68abd1f)
 
 # Hypixel Auction Sniper
 
